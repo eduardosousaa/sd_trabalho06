@@ -1,4 +1,4 @@
-# Distributed Image Message System
+# Projeto: Gerador e Consumidores de Imagens com RabbitMQ
 
 ## Overview
 
@@ -60,8 +60,8 @@ project-root/
 |   ├── requirements.txt
 |   └── consumer_team.py
 ├── prints/
-│   ├── face_queue.png      # Print do monitoramento da fila face
-│   └── team_queue.png      # Print do monitoramento da fila team
+│   ├── face_queue.png
+│   └── team_queue.png
 └── README.md
 ```
 
